@@ -9,7 +9,7 @@
 <br/>
 🏫  I'm studying at Princess of Naradhiwas University
 <br/>
-<img src="https://komarev.com/ghpvc/?username=Jakraphong99&style=flat&color=blue" alt="account counter"/>
+<img src="https://komarev.com/ghpvc/?username=Jakraphong99&style=flat&color=blueviolet" alt="account counter"/>
 </div>
 <hr/>
 
