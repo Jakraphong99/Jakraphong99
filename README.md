@@ -1,9 +1,9 @@
 Hi 👋 My name is Jakraphong
 ===========================
 
-### Web Application
+* 🌍  I'm based in Naradhiwat, Thailand
+* 🏫  I'm studying at Princess of Naradhiwas University
 
-* 🌍  I'm based in Naradhiwat, Thailand 
 <hr/>
 
 ### Skill :
