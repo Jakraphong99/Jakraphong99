@@ -2,8 +2,9 @@
 
 ### Hi 👋 My name is Jakraphong
 
-*🌍  I'm based in Naradhiwat, Thailand
-*🏫  I'm studying at Princess of Naradhiwas University
+🌍  I'm based in Naradhiwat, Thailand
+<br/>
+🏫  I'm studying at Princess of Naradhiwas University
 </div>
 <hr/>
 
