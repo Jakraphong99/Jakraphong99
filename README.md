@@ -13,7 +13,7 @@
 </div>
 <hr/>
 
-### Skill :
+### Skill Basic :
 
 <div>
 <p align="left">
